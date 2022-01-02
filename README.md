@@ -1,4 +1,4 @@
-						         ¡Hola, 👊 Bienvenido(a)! 👋😼
+<h2 align="center">¡Hola, 👊 Bienvenido(a)! 👋😼 </h2>
 
 ## Presentación
 👉 Mi nombre es Raúl Moheno, soy de México, actualmente con 19 años de edad, recién egresado de un bachillerato, como Físico-Matemático y técnico en Programación. Te agradezco mucho tu tiempo por visitar mi repositorio, acá encontrarás diferentes proyectos desarrollados con mucho detalle y dedicación que espero te sean de mucha utilidad y siempre tratando que sean innovadores. Estoy comenzando a trazar mi camino como profesional en Desarrollo de Software Web.
